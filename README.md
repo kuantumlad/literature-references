@@ -9,3 +9,5 @@
 ### Theses
 - Exploring the Structure of the Proton via Semi-Inclusive Pion Electroproduction, Harrison, Nathan Andrew (2015) [2](https://www.jlab.org/Hall-B/general/thesis/Harrison_thesis.pdf)
 
+### Analysis Notes
+- Deeply Virtual and Exclusive Production of the Omega Meson, M. Garcon, L. Morand (2005) [1](https://www.worldscientific.com/doi/pdf/10.1142/S0217751X05023694)
